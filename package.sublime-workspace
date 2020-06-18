@@ -1,0 +1,393 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"fil",
+				"filterRobots"
+			],
+			[
+				"search",
+				"searchChange"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"aray",
+				"array3"
+			],
+			[
+				"bigge",
+				"biggestNumberInArray3"
+			],
+			[
+				"bigg",
+				"biggestNumberInArray3"
+			],
+			[
+				"trim",
+				"trimEnd"
+			],
+			[
+				"user",
+				"userEmail3"
+			],
+			[
+				"pad",
+				"padStart"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"filter",
+				"Filter"
+			],
+			[
+				"new",
+				"newUsername"
+			],
+			[
+				"last",
+				"lastName"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"remove",
+				"removeParent"
+			],
+			[
+				"dele",
+				"deleteBtns"
+			],
+			[
+				"delete",
+				"deleteBtn"
+			],
+			[
+				"list",
+				"listItemClick"
+			],
+			[
+				"is",
+				"isUserValid"
+			],
+			[
+				"pswd",
+				"pswd"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"usern",
+				"username"
+			],
+			[
+				"gridte",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"gridcolu",
+				"grid-column-end\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"tans",
+				"transform\tproperty"
+			],
+			[
+				"size",
+				"font-size\tproperty"
+			],
+			[
+				"fa",
+				"font-family\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/React/robofriends/src/index.js",
+		"/C/React/robofriends/src/containers/App.js",
+		"/C/React/robofriends/src/Scroll.js",
+		"/C/React/robofriends/src/App.js",
+		"/C/React/robofriends/src/Card.js",
+		"/C/React/robofriends/src/CardList.js",
+		"/C/React/robofriends/src/SearchBox.js",
+		"/C/React/robofriends/src/index.css",
+		"/C/React/robofriends/src/App.css",
+		"/C/React/robofriends/src/Hello.css",
+		"/C/React/robofriends/src/Hello.js",
+		"/C/Portfolio/simplefolio/src/template.html",
+		"/C/Portfolio/simplefolio/src/style/abstracts/_variables.scss",
+		"/C/Udemy/Web Dev Course/js/advanced_js/ES10-Exercise.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/ES10-Solutions.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/advanced-looping-exercise.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/advanced-looping-solution.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exerciseES8.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exerciseES8-SOLUTIONS.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exerciseES7.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exerciseES7-SOLUTIONS.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exercise6.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exercise6-SOLUTIONS.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exercise5.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exercise5-SOLUTIONS-1.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exercise3-SOLUTIONS.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exercise4-SOLUTIONS.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exercise4.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exercise3.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exercise2.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exercise2-SOLUTIONS.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exercise1.js",
+		"/C/Udemy/Web Dev Course/js/advanced_js/exercise1-SOLUTIONS.js",
+		"/C/Udemy/Web Dev Course/js/DOM-selectors.txt",
+		"/C/Udemy/Web Dev Course/js/DOM Events/index.html",
+		"/C/Udemy/Web Dev Course/js/DOM Events/script.js",
+		"/C/Udemy/Web Dev Course/js/DOM Events/style.css",
+		"/C/Udemy/Web Dev Course/js/facebook/index.html",
+		"/C/Udemy/Web Dev Course/js/facebook/script.js",
+		"/C/Udemy/Web Dev Course/js/exercise7attempt.js",
+		"/C/Udemy/Web Dev Course/js/exercise7-SOLUTIONS.js",
+		"/C/Udemy/Web Dev Course/js/exercise7.txt",
+		"/C/Udemy/Web Dev Course/js/exercise6.txt",
+		"/C/Udemy/Web Dev Course/js/exercise6attempt.js",
+		"/C/Udemy/Web Dev Course/js/exercise6-SOLUTIONS.js",
+		"/C/Udemy/Web Dev Course/js/exercise5.txt",
+		"/C/Udemy/Web Dev Course/js/exercise5attempt.js",
+		"/C/Udemy/Web Dev Course/js/exercise5-SOLUTIONS.js",
+		"/C/Udemy/Web Dev Course/js/exercise4.txt",
+		"/C/Udemy/Web Dev Course/js/exercise3.txt",
+		"/C/Udemy/Web Dev Course/js/exercise2.txt",
+		"/C/Udemy/Web Dev Course/js/exercise2-SOLUTIONS.txt",
+		"/C/Udemy/Web Dev Course/js/exercise1.txt",
+		"/C/Udemy/Web Dev Course/js/exercise1-SOLUTIONS.txt",
+		"/C/Udemy/Web Dev Course/css_layout/project-start/index.html",
+		"/C/Udemy/Web Dev Course/css_layout/project-start/style.css",
+		"/C/Udemy/Web Dev Course/css_grid/index.html",
+		"/C/Udemy/Web Dev Course/css_grid/style.css",
+		"/C/Udemy/Web Dev Course/start_up_landing/index.html",
+		"/C/Udemy/Web Dev Course/start_up_landing/style.css",
+		"/C/Udemy/Web Dev Course/bootstrap/index.html",
+		"/C/Udemy/Web Dev Course/bootstrap/style.css",
+		"/C/Udemy/Web Dev Course/robot_animation/index.html",
+		"/C/Udemy/Web Dev Course/robot_animation/style.css",
+		"/C/Udemy/Web Dev Course/robot_animation_solution/style.css",
+		"/C/Udemy/Web Dev Course/robot_animation_solution/index.html",
+		"/C/Udemy/Web Dev Course/flexbox/style.css",
+		"/C/Udemy/Web Dev Course/flexbox.html",
+		"/C/Udemy/Web Dev Course/style.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
